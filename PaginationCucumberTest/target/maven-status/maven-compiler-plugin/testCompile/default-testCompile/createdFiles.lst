@@ -1,0 +1,5 @@
+pages\Flight.class
+pages\Home.class
+pages\Register.class
+step_definations\MerucryFlightTest.class
+step_definations\TestRunner.class
